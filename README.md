@@ -12,9 +12,12 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a love for bui
 - 💬 Ask me about **Web Development and Rust**.
 - 📫 How to reach me: **h.rostami.r@gmail.com**.
 - 😄 Pronouns: **He/Him**.
+- 👨🏻‍💻 Who am I?: **https://rasoul-app.vercel.app**
 - ⚡ Fun fact: **I Love 🚀**.
 
 ---
+
+![My Portfolio Image](https://rasoul-app.vercel.app/og-main-image.png)
 
 ## 🛠️ **Technologies & Tools**
 
